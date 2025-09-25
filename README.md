@@ -119,3 +119,5 @@ No, it's a personal project by myself ([Daniel Bourke](https://www.mrdbourke.com
 ## Log
 
 11 Feb 2025 - Add object detection base tutorial (code works, but this is a first draft, stay tuned for updates to make it cleaner) 
+
+hello
